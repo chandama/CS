@@ -1,0 +1,41 @@
+TAX REPORT: 
+** Taxes due for the property at:  129-Avatar-Lane
+  This property has an estimated value of:      5000000.00
+  Taxes due on this property are: 45000.00
+
+
+** Taxes due for the property at:  24-Secret-Tunnel-Turnpike
+  This property has an estimated value of: 2995342.00
+  Taxes due on this property are: 29953.42
+
+
+** Taxes due for the property at:  23-Metal-Bend
+  This property has an estimated value of: 24668832.00
+  Taxes due on this property are: 236820.79
+
+
+** Taxes due for the property at:  85-Sparky-Sparky-Boom-Village
+  This property has an estimated value of:      7334211.00
+  Taxes due on this property are: 66007.90
+
+
+** Taxes due for the property at:  Banana-Onion-Road
+  This property has an estimated value of:       345678.00
+  Taxes due on this property are: 2074.07
+
+
+** Taxes due for the property at:  42-Iris-Way
+  This property has an estimated value of:       200000.00
+  Taxes due on this property are: 1200.00
+
+
+** Taxes due for the property at:  350-Sea-Towers
+  This property has an estimated value of: 1234567.00
+  Taxes due on this property are: 9814.81
+
+
+** Taxes due for the property at:  12-Spirit-Way
+  This property has an estimated value of: 77299351.00
+  Taxes due on this property are: 927592.21
+
+

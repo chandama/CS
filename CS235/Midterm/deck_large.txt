@@ -1,0 +1,15 @@
+minnow 1
+carp 2
+salmon 3
+albacore 4
+blowfish 5
+cod 6
+catfish 7
+dogfish 8
+flagfin 9
+goldfish 10
+herring 11
+guppy 12
+loach 13
+mulet 14
+tuna 15

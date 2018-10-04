@@ -1,0 +1,8 @@
+Residential yes 5000000 no 129-Avatar-Lane
+Commercial no 2995342 no 0 24-Secret-Tunnel-Turnpike
+Commercial yes 24668832 yes 20 23-Metal-Bend
+Residential no 7334211 no 85-Sparky-Sparky-Boom-Village
+Residential no 345678 yes Banana-Onion-Road
+Residential yes 200000 yes 42-Iris-Way
+Commercial no 1234567 yes 20.5 350-Sea-Towers
+Commercial yes 77299351 no 0 12-Spirit-Way
